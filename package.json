@@ -1,0 +1,23 @@
+{
+  "name": "js-heroku-deploy-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fakincow/node-js-heroku-deploy-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fakincow/node-js-heroku-deploy-test/issues"
+  },
+  "homepage": "https://github.com/fakincow/node-js-heroku-deploy-test#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
